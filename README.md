@@ -1,5 +1,5 @@
 # Hi👋,I'm Manish Kumar Nirmalkar
-🔭 A 3rd-year student pursuing Bachelor in Computer science and engineering , from Lovely Professional University.<br>🤖I am a Web developer.<br>🌱 I’m currently learning Golang<br>💬 Ask me how am I doing?<br>😄 Pronouns: He/Him
+🔭 A 3rd-year student pursuing Bachelor in Computer science and engineering , from Lovely Professional University.<br>🤖I am a Web developer.<br>🌱 I’m currently learning Golang.<br>💬 Ask me how am I doing?<br>😄 Pronouns: He/Him
 <img align="right" width="400" src="contact-img.svg" alt="header-img" >
 
 ## 🌐 Socials:
