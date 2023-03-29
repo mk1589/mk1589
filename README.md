@@ -1,6 +1,6 @@
 # Hi👋,I'm Manish Kumar Nirmalkar
 🔭 A 3rd-year student pursuing Bachelor in Computer science and engineering , from Lovely Professional University.<br>🤖I am a Web developer.<br>🌱 I’m currently learning Golang.<br>💬 Ask me how am I doing?<br>😄 Pronouns: He/Him
-<img align="right" width="400" src="anime.gif" alt="header-img" >
+<img align="right" width="400" src="contact-img.svg" alt="header-img" >
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/printf_manish_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manish-kumar-nirmalkar-7933531b7/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/mk1589) 
